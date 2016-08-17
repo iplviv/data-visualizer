@@ -14,4 +14,3 @@ profiles:
   two:
     test_pattern:
       - spec/**_spec.rb
-
